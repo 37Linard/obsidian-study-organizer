@@ -1,0 +1,9 @@
+{
+  "id": "leetcode-study-organizer",
+  "name": "LeetCode Study Organizer",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Revisão espaçada (SM-2) dos problemas de LeetCode registrados no seu vault.",
+  "author": "Gabriel",
+  "isDesktopOnly": false
+}
